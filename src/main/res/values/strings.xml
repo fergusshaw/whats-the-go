@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">what\'s the go</string>
+    <string name="channel_name">cool_channel</string>
+    <string name="channel_description">this is the main notification channel</string>
+</resources>
