@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_stat_interrobang
+id button
+id firstInput
+id main
+id mainListView
+id menu_complete
+id menu_delete
+id noDeadline
+id pickDate
+id pickTime
+id selectedText
+id submitButton
+id viewCompleted
+layout activity_main
+menu list_item_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string channel_description
+string channel_name
+style Base.Theme.WhatsTheGo
+style Theme.WhatsTheGo
+xml backup_rules
+xml data_extraction_rules
